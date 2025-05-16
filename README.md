@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md. Sabbir Hasan Bhuiyan</h1>
+<h3 align="center">CSE Undergraduate | Competitive Programmer | Full-Stack Developer</h3>
 
-<!--
-**SabbirHasanBhuiyan/SabbirHasanBhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Competitive Programming Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Codeforces: [Expert (Max Rating 1733)](https://codeforces.com/profile/Sabbir.Hasan)
+- 🧠 Solved 2000+ problems across Codeforces, LightOJ, Toph, etc.
+- 🕐 Participated in **300+ online contests**
+- 🎖️ 3× ICPC Dhaka Regionalist | 20+ National IUPCs
+
+### 🏆 Notable Achievements
+
+| Contest/Event                             | Rank     |
+|-------------------------------------------|----------|
+| 🥇 15th IIUC Inter-University IUPC 2023   | Champion |
+| 🥈 ICPC Dhaka Regional 2024               | 31st     |
+| 🥉 KUET Inter-University IUPC 2025        | 32nd     |
+| 🌍 Meta Hacker Cup 2024 (Round 2)         | 911th    |
+| 🏅 CUSS IT Fiesta 2024                    | 4th      |
+| 🥇 Intra CU Engineering Day IUPC 2022     | Champion |
+
+📘 Full contest history: [IUPC Performance Tracker](https://github.com/SabbirHasanBhuiyan/IUPC_Performace)
+
+---
+
+## 🧰 Tech Stack
+
+| Languages             | Tools / Libraries                           | Domains                                     |
+|-----------------------|----------------------------------------------|---------------------------------------------|
+| C++ · JavaScript · Python · SQL | React · Node.js · React Native · MySQL · TensorFlow.js | Competitive Programming · Web Dev · ML (Edge) · Cryptography |
+| HTML · CSS · Bash     | Git · Expo · VSCode · Postman                | Mobile App Dev · Backend APIs · UI Systems  |
+
+---
+
+## 📦 Key Projects
+
+### 🏛️ Leave Management System – CU ERP
+**Stack:** Node.js · React.js · MySQL  
+- Modular leave workflow for real students, staff, admins  
+- Role-based access, approval chain, and email notifications  
+[🔗 View on GitHub](https://github.com/SabbirHasanBhuiyan/Leave-Management-System)
+
+### 📱 Currency Detection App
+**Stack:** React Native · TensorFlow.js · Expo  
+- Real-time BDT currency detection with mobile camera  
+- Includes micro-vlogging system with posts/comments/likes  
+[🔗 View on GitHub](https://github.com/SabbirHasanBhuiyan/CurrencyDetectionApp)
+
+---
+
+## 📜 Academic Research
+
+**Thesis:** *Image Encryption Using DNA Encoding & Chaos Theory*  
+- Combined DNA-binary encoding with chaotic maps  
+- Targeted lightweight encryption for images in constrained systems
+
+---
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabbirHasanBhuiyan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirHasanBhuiyan&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHasanBhuiyan&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+- 📧 Email: [sabbirhasan675@gmail.com](mailto:sabbirhasan675@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sabbirhasanbhuiyan](https://www.linkedin.com/in/sabbirhasanbhuiyan/)
+- 💻 GitHub: [SabbirHasanBhuiyan](https://github.com/SabbirHasanBhuiyan)
+- 🧮 Codeforces: [Sabbir.Hasan](https://codeforces.com/profile/Sabbir.Hasan)
+
+---
+
