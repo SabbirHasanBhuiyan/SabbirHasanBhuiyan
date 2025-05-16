@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sabbir Hasan Bhuiyan</h1>
-<h3 align="center">CSE Undergraduate | Competitive Programmer | Full-Stack Developer</h3>
+<h3 align="center">CSE Undergraduate | Competitive Programmer | Aspiring Software Engineer</h3>
 
 ---
 
