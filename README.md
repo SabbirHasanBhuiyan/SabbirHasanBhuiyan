@@ -27,12 +27,13 @@
 
 ## 🧰 Tech Stack
 
-| Languages             | Tools / Libraries                           | Domains                                     |
-|-----------------------|----------------------------------------------|---------------------------------------------|
-| C++ · JavaScript · Python · SQL | React · Node.js · React Native · MySQL · TensorFlow.js | Competitive Programming · Web Dev · ML (Edge) · Cryptography |
-| HTML · CSS · Bash     | Git · Expo · VSCode · Postman                | Mobile App Dev · Backend APIs · UI Systems  |
-
----
+| **Category**               | **Technologies**                                                                                                                                      |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**              | C++ · SQL · Python · Java · JavaScript · TypeScript · HTML · CSS                                                                                 |
+| **Frameworks & Libraries** | React · React Native · Node.js · Express.js · TensorFlow.js · Tailwind CSS · Flowbite · Zod · Yup · Multer · JWT · Nodemailer · Kysely         |
+| **Databases & APIs**       | MySQL (mysql2) · ORM/Query Builder: Kysely · RESTful APIs · GraphQL                                                                                    |
+| **Dev Tools & Deployment** | Git · Expo · Postman                                                                                                                                    |
+| **Domains & Expertise**    | Competitive Programming · Web Development · Mobile App Development · Cryptography / Image Encryption                |
 
 ## 📦 Key Projects
 
