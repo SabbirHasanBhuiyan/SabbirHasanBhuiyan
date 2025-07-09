@@ -15,7 +15,7 @@
 | Contest/Event                             | Rank     |
 |-------------------------------------------|----------|
 | 🥇 15th IIUC Inter-University IUPC 2023   | Champion |
-| 🥈 ICPC Dhaka Regional 2024               | 31st     |
+| 🥈 ICPC Dhaka Regional 2024               | 30th     |
 | 🥉 KUET Inter-University IUPC 2025        | 32nd     |
 | 🌍 Meta Hacker Cup 2024 (Round 2)         | 911th    |
 | 🏅 CUSS IT Fiesta 2024                    | 4th      |
