@@ -6,7 +6,7 @@
 ## 🚀 Competitive Programming Journey
 
 - 🎯 Codeforces: [Expert (Max Rating 1733)](https://codeforces.com/profile/Sabbir.Hasan)
-- 🧠 Solved 2000+ problems across Codeforces, LightOJ, Toph, etc.
+- 🧠 Solved 2000+ problems across Codeforces, Codechef, Leetcode, LightOJ, Toph, etc.
 - 🕐 Participated in **300+ online contests**
 - 🎖️ 3× ICPC Dhaka Regionalist | 20+ National IUPCs
 
