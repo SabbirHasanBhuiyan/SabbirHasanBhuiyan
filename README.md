@@ -37,17 +37,24 @@
 
 ## 📦 Key Projects
 
-### 🏛️ Leave Management System – CU ERP
-**Stack:** Node.js · React.js · MySQL  
-- Modular leave workflow for real students, staff, admins  
-- Role-based access, approval chain, and email notifications  
-[🔗 View on GitHub](https://github.com/SabbirHasanBhuiyan/Leave-Management-System)
+### 🏛️ Leave Management System – CU ERP  
+**Team Project · 2024**  
+**Tech Stack:** Node.js · React.js · MySQL  
 
-### 📱 Currency Detection App
-**Stack:** React Native · TensorFlow.js · Expo  
-- Real-time BDT currency detection with mobile camera  
-- Includes micro-vlogging system with posts/comments/likes  
-[🔗 View on GitHub](https://github.com/SabbirHasanBhuiyan/CurrencyDetectionApp)
+- Built a modular leave‑management system (study, medical, maternity, etc.) within a centralized university ERP.  
+- Designed leave‑request workflows with role‑based access control and dynamic approval chains.  
+- Coordinated admin features and email notifications for each step of the process.  
+- Implemented JWT‑secured REST APIs and a normalized MySQL schema to enable cross‑module data sync.  
+🔗 [View on GitHub](https://github.com/SabbirHasanBhuiyan/Leave-Management-System)
+
+
+### 📱 Currency Detection App  
+**Individual Project · 2024**  
+**Tech Stack:** React Native · TensorFlow.js · Expo  
+
+- Developed an on‑device TensorFlow.js model to detect Bangladeshi currency in real time using the mobile camera.  
+- Integrated a zero‑refresh micro‑vlogging system featuring posts, comments, and likes.  
+🔗 [View on GitHub](https://github.com/SabbirHasanBhuiyan/CurrencyDetectionApp)
 
 ---
 
